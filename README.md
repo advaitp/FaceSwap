@@ -1,4 +1,7 @@
-
+# FaceSwap
+## Overview 
+### Traditional Approach
+# ![1](https://github.com/advaitp/FaceSwap/blob/main/images/faceswap%20trad.png) 
 
 ### Steps to run the code
 Requirements : 
