@@ -2,6 +2,21 @@
 ## Overview 
 ### Traditional Approach
 # ![1](https://github.com/advaitp/FaceSwap/blob/main/images/faceswap%20trad.png) 
+A. Detection of Facial Landmarks
+# ![2](https://github.com/advaitp/FaceSwap/blob/main/images/1.png) 
+
+B. Warping or swaping face
+
+1. Warping using Triangulation
+# ![3](https://github.com/advaitp/FaceSwap/blob/main/images/2.png)
+
+2. Warping using TPS
+# ![4](https://github.com/advaitp/FaceSwap/blob/main/images/3.png)
+
+C. Blending
+# ![5](https://github.com/advaitp/FaceSwap/blob/main/images/4.png)
+
+D. Tracking face
 
 ### Steps to run the code
 Requirements : 
